@@ -1,0 +1,14 @@
+﻿capstone_user==REMOVED_MONGO_USER
+Capstone123==REMOVED_MONGO_PASSWORD
+mongodb+srv://capstone_user:Capstone123@cluster0.zew75dg.mongodb.net/proctoring?retryWrites=true&w=majority==REMOVED_MONGO_URI
+
+supersecret123==REMOVED_JWT_SECRET
+your-admin-secret-key-change-this==REMOVED_ADMIN_JWT_SECRET
+
+328392712581-bs2t7juamjsvua0svjse2l2elgfcgusm.apps.googleusercontent.com==REMOVED_GOOGLE_CLIENT_ID
+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==REMOVED_GOOGLE_CLIENT_SECRET
+
+christianmangulab50@gmail.com==REMOVED_EMAIL
+wscj jstn skwn gvti==REMOVED_EMAIL_APP_PASSWORD
+
+6Ld6qA0sAAAAAPUEJ2bUfPaXA0nZNS8XJGxKUnLk==REMOVED_RECAPTCHA_SECRET_KEY
